@@ -33,12 +33,12 @@
     "@actions/exec": "1.1.1",
     "@actions/http-client": "2.2.3",
     "@actions/tool-cache": "2.0.2",
-    "semver": "7.7.1"
+    "semver": "7.7.3"
   },
   "devDependencies": {
     "@types/jest": "29.5.14",
     "@types/node": "^20.6.0",
-    "@types/semver": "7.7.0",
+    "@types/semver": "7.7.1",
     "@typescript-eslint/parser": "8.47.0",
     "@vercel/ncc": "0.38.3",
     "eslint": "8.57.1",
